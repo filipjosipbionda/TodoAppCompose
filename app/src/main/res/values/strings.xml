@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="tdlist_fab_text">Add new todo</string>
+    <string name="add_new_todo_title">Add new todo</string>
+    <string name="add_todo_arrowback_description">Navigate back to home screen</string>
+    <string name="addtodo_select_date_description">Select date</string>
+    <string name="addtodo_date_label">Date*</string>
+    <string name="priority_low">Low</string>
+    <string name="addtodo_button_description">Save Todo</string>
+    <string name="addtodo_ddmenu_label">Priority<font color='#FF0000'>*</font></string>
+    <string name="addtodo_dpdialog_positive">Ok</string>
+    <string name="addtodo_dpdialog_negative">Cancel</string>
+    <string name="addtodo_label_name">Name*</string>
+    <string name="addtodo_label_description">Description</string>
+    <string name="addtodo_button_text">Save</string>
+    <string name="tv_notasks_text">
+    No <b><font color="#8C4A60">todos</font></b> added. Tap the <b><font color="#8C4A60">(+)</font></b> button in the bottom right corner to add a new <b><font color="#8C4A60">todo</font></b> with a <b><font color="#8C4A60">date</font></b> and <b><font color="#8C4A60">priority</font></b>.
+    </string>
+    <string name="addtodo_instructions">*indicates required fields</string>
+</resources>
